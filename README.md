@@ -82,5 +82,3 @@
 <br/>  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thamarakshan-pilla&show_icons=true&locale=en" alt="thamarakshan-pilla" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thamarakshan-pilla&" alt="thamarakshan-pilla" /></p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thamarakshan-pilla&" alt="thamarakshan-pilla" /></p> -->
