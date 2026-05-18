@@ -19,8 +19,8 @@
 ### 👨‍💻 What I'm Up To
 
 - 🔭 **Current Focus:** Developing an animation-heavy web experience for KAT Global Sports Agency using **Angular 21** and **GSAP**, alongside a secret mobile app.
-- 🚀 **Mobile Architecture:** Built the **Lulu Trade Connect** authenticator app from scratch using Flutter (MVC), and previously developed the highly successful **Mallu Chef** app entirely in Flutter.
-- 👾 **Indie Game Dev:** 10+ years of **Unity** development and 5+ years of 3D modeling/texturing in **Blender**. I specialize in low-poly aesthetics and co-developed the award-winning jam game *Nowhere* (2nd place, AsylumJam).
+- 🚀 **Mobile Architecture:** Built the **Vaazha** app from scratch using Flutter (MVC), and previously developed the highly successful **Mallu Chef** app entirely in Flutter.
+- ​👾 **Game Development & 3D Art:** Bringing worlds to life with 10+ years in **Unity** and **3ds Max**, plus 5+ years mastering 3D creation in **Blender**. I excel at crafting distinct low-poly environments and co-developed the acclaimed horror game *Nowhere* (AsylumJam Silver Medalist).
 - 🎮 **Philosophy:** Passionate about digital ownership and advocating for DRM-free gaming experiences.
 
 ---
