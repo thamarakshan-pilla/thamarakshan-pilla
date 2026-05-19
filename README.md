@@ -51,6 +51,5 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thamarakshan-pilla&show_icons=true&theme=radical&hide_border=true" alt="thamarakshan-pilla stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thamarakshan-pilla&theme=radical&hide_border=true" alt="thamarakshan-pilla streak" />
 </div>
