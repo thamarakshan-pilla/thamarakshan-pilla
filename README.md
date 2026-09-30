@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Elvin Lloyd Thomas</h1>
-<h3 align="center">Senior Software Engineer | Angular & Flutter Expert | Indie Game Developer</h3>
+<h1 align="center">Hi 👋, I'm Thamarakshan Pilla</h1>
+<h3 align="center">Certified Flying Saucer 🛸 | Senior Software Engineer | Indie Game Dev</h3>
 
 <p align="center">
-  A self-taught developer based in Bangalore with over 5 years of experience building high-performance web and mobile applications, alongside a decade of expertise in immersive 3D game development.
+  Like the legendary bus from <i>Ee Parakkum Thalika</i>, I might look like a collection of rattling parts and loose nuts held together by duct tape and prayers—yet somehow running at supersonic speeds without breaking down. A self-taught developer and indie game creator who turns chaotic codebases into high-performance web, mobile, and 3D experiences.
 </p>
 
 <p align="center">
@@ -16,16 +16,16 @@
 
 ---
 
-### 👨‍💻 What I'm Up To
+### 🚌 Engine & Body Status (What I'm Up To)
 
-- 🔭 **Current Focus:** Developing an animation-heavy web experience for KAT Global Sports Agency using **Angular 21** and **GSAP**, alongside a secret mobile app.
-- 🚀 **Mobile Architecture:** Built the **Vaazha** app from scratch using Flutter (MVC), and previously developed the highly successful **Mallu Chef** app entirely in Flutter.
-- ​👾 **Game Development & 3D Art:** Bringing worlds to life with 10+ years in **Unity** and **3ds Max**, plus 5+ years mastering 3D creation in **Blender**. I excel at crafting distinct low-poly environments and co-developed the acclaimed horror game *Nowhere* (AsylumJam Silver Medalist).
-- 🎮 **Philosophy:** Passionate about digital ownership and advocating for DRM-free gaming experiences.
+- 🔭 **Under the Hood:** Engineering an animation-heavy web experience for KAT Global Sports Agency using **Angular 21** and **GSAP**, alongside a top-secret mobile app.
+- 🚀 **Suspension & Chassis:** Architected the **Vaazha** app from scratch using Flutter (MVC), plus the recipe powerhouse **Mallu Chef** (the bus's finest fuel).
+- 👾 **Flying Saucer Division:** 10+ years in **Unity** and **3ds Max**, with 5+ years crafting worlds in **Blender**. Low-poly wizardry, retro aesthetic preservation, and co-creator of the horror hit *Nowhere* (AsylumJam Silver Medalist).
+- 🎮 **Road Rules:** Staunch advocate for digital ownership and strictly DRM-free gaming experiences.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Spare Parts & Maintenance Kit
 
 **Frontend & Mobile App Development**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -48,7 +48,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Route Metrics & Mileage
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thamarakshan-pilla&theme=radical&hide_border=true" alt="thamarakshan-pilla streak" />
